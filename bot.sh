@@ -22,9 +22,9 @@ echo "\033[1;96m|\ | |  |  \_/  |  | |     \033[1;91m|__| |__] |_/ "
 echo "\033[1;96m| \| |__|   |   |__| |___  \033[1;91m|  | |    | \_"
 echo
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
-echo "\033[90m Coded\033[1;91m  :\033[1;93andre"
-echo "\033[90m Youtube\033[1;91m:\033[1;93chanel andre007"
-echo "\033[90m Github\033[1;91m :\033[1;96https://github.com/Nuyul-Apk1/Nuyul-apk/new/master"
+echo "\033[90m Coded\033[1;91m  :\033[1;93mRym"
+echo "\033[90m Youtube\033[1;91m:\033[1;93chanel andre 007"
+echo "\033[90m Github\033[1;91m :\033[1;96mhttps://github.com/Nuyul-Apk1/Nuyul-apk/new/master"
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
 echo
 echo "\033[90m=\033[1;91m--------------------------\033[90m="
